@@ -1,0 +1,33 @@
+Trigger IBM OpenWhisk Actions using Golang
+November 2016, IoT2016 Conference Stuttgart
+Tags: go golang http bluemix subscribe openwhisk watson iot iot2016
+
+Julian Skupnjak
+Software Engineer, IBM Bluemix
+@julzthecreator
+
+* Overview
+
+- Setup WatsonIoT
+- Setup MQTT connection to WatsonIoT
+- Setup OpenWhisk package
+- Bring things together
+
+* IBM Watson IoT
+
+First you will need to sign up to IBM Bluemix:
+
+.link http://bluemix.net
+
+You will get a trial account for 30 days.
+
+* IBM Watson IoT
+
+** Setup Watson IoT
+
+Once signed up, go to the *catalog* section and in the search field type `iot` or choose the boilerplate section on the side-bar. You will find an *Internet of Things Platform Starte* boilerplate.
+Type in an App Name and choose _free_ as pricing plan. Click on _Create_.
+
+.image images/createWIoTapp.png
+
+* Launch the Watson IoT Dashboard
