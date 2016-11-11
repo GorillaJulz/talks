@@ -25,7 +25,7 @@ You will get a trial account for 30 days.
 
 Lets set up Watson IoT
 
-Once signed up, go to the *catalog* section and in the search field type `iot` or choose the boilerplate section on the side-bar. You will find an *Internet*of*Things*Platform*Starter* boilerplate.
+Once signed up, go to the *catalog* section and in the search field type "iot" or choose the boilerplate section on the side-bar. You will find an *Internet*of*Things*Platform*Starter* boilerplate.
 Type in an App Name and choose _free_ as pricing plan. Click on _Create_.
 
 .image images/createWIoTapp.png
